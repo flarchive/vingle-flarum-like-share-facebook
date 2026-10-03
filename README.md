@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of vingle/flarum-like-share-facebook.** Not for installation: use [Packagist](https://packagist.org/packages/vingle/flarum-like-share-facebook) or the [upstream repository](https://github.com/tutula1/vingle-like-share-facebook).
 
-**0** versions archived · Latest: [`0.1.0-beta.1`](https://github.com/flarchive/vingle-flarum-like-share-facebook/tree/archive/v0.1.0-beta.1) · Flarum: `^0.1.0-beta.3`
+**1** versions archived · Latest: [`0.1.0-beta.1`](https://github.com/flarchive/vingle-flarum-like-share-facebook/tree/archive/v0.1.0-beta.1) · Flarum: `^0.1.0-beta.3`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0-beta.1` | 2015-12-10 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/vingle-flarum-like-share-facebook/tree/archive/v0.1.0-beta.1) |
 
 Catalog entry: [packages/vingle-flarum-like-share-facebook.json](https://github.com/flarchive/archive-index/blob/main/packages/vingle-flarum-like-share-facebook.json)
 
